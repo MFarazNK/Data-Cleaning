@@ -11,10 +11,11 @@
 ## Step 2 : Removed data entry errors
 * Replaced blank spaces and other data entry errors with null values
 
-## Step 3 : Identifying the case of MNAR (Missing Not at Random)  
+## Step 3 : Identified the case of MNAR (Missing Not at Random)  
 * Used manobar library to visualize the trend of missing values
-* The case of MNAR occurs with less than 5% of the data, therefore deleting those specific rows
+* Deleted those specific rows as it was less than 5% of the original data
 
-## Step 4 : Replacing null values in each column using different techniques
+## Step 4 : Replaced null values with appropriate values
 * Used the documentation given with the csv file to understand the relationship between columns
 * Used EDA to detect outliers
+* Replaced null values with appropriate values
