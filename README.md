@@ -1,4 +1,4 @@
-# Data Cleaning and Exploratory Data Analysis on python
+# Project 2: Data Cleaning and Exploratory Data Analysis on python
 * Data Cleaning on the "house price prediction" data set
 * Libraries used; numpy, pandas, missingno & matplotlib
 
